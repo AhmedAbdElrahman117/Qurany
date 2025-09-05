@@ -17,6 +17,9 @@
 - **All Types of Doaa:** Find a variety of authentic Duas (supplications) for different occasions.
 - **Electronic Sebha:** Use a digital Tasbih (Sebha) for counting Dhikr and Tasbeeh.
 
+## Screenshots
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
