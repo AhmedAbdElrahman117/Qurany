@@ -38,12 +38,16 @@ class TrackTimeIndicator extends StatelessWidget {
               const EdgeInsets.only(top: 42, left: 30, right: 30, bottom: 12),
           child: ProgressBar(
             timeLabelLocation: TimeLabelLocation.above,
-            bufferedBarColor: kTextColor.withOpacity(0.25),
+            bufferedBarColor: kTextColor.withValues(
+              alpha: 0.25,
+            ),
             progress: snapshots.snapshot1.data!,
             buffered: snapshots.snapshot2.data!,
             total: player.duration ?? Duration.zero,
             thumbColor: kTextColor,
-            baseBarColor: kTextColor.withOpacity(0.18),
+            baseBarColor: kTextColor.withValues(
+              alpha: 0.25,
+            ),
             progressBarColor: kTextColor,
             timeLabelTextStyle:
                 const TextStyle(color: kTextColor, fontSize: 16),

@@ -15,6 +15,7 @@ class CopyButton extends StatelessWidget {
         await Clipboard.setData(
           ClipboardData(text: control.text),
         );
+        // ignore: use_build_context_synchronously
         ScaffoldMessenger.of(context).showSnackBar(
           const SnackBar(
             content: Text('تم النسخ الي الحافظة'),

@@ -34,6 +34,7 @@ class CategoryListView extends StatelessWidget {
                     category: data[index],
                   );
                   await Navigator.push(
+                    // ignore: use_build_context_synchronously
                     context,
                     RouteBuilder().goto(AzkarView(category: data[index])),
                   );

@@ -15,7 +15,7 @@ class MinimizedTrackBarBackground extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 16),
       width: MediaQuery.of(context).size.width,
       height: 75,
-      decoration: BoxDecoration(
+      decoration: const BoxDecoration(
         color: kBackgroundColor,
       ),
       child: child,
