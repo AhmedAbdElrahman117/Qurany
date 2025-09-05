@@ -13,12 +13,14 @@
 - **Read the Quran:** Browse all Surahs (chapters) and Ayahs (verses) with clear Arabic text.
 - **Audio Playback:** Listen to recitations by popular Qaris, with playback controls.
 - **Offline Access:** Read and search the Quran without an internet connection.
+- **Custom Designed Sound Player:** Fully Designed Sound Player from scratch
 - **All Types of Azkar:** Access a comprehensive collection of daily Azkar (remembrances).
 - **All Types of Doaa:** Find a variety of authentic Duas (supplications) for different occasions.
 - **Electronic Sebha:** Use a digital Tasbih (Sebha) for counting Dhikr and Tasbeeh.
 
 ## Screenshots
 
+<img src="screenshots/Screenshot_1757075609.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075654.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075665.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075681.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075695.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075703.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075733.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075741.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075749.png" width="200">&nbsp;&nbsp;&nbsp; <img src="screenshots/Screenshot_1757075757.png" width="200">
 
 ## 🚀 Getting Started
 
