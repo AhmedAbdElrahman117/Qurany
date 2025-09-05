@@ -25,11 +25,21 @@ class QuranApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MultiBlocProvider(
       providers: [
-        BlocProvider(create: (context) => SurahCubit()),
-        BlocProvider(create: (context) => HadithCubit()),
-        BlocProvider(create: (context) => AzkarCubit()),
-        BlocProvider(create: (context) => CategoryCubit()),
-        BlocProvider(create: (context) => TasbihCubit()),
+        BlocProvider(
+          create: (context) => SurahCubit(),
+        ),
+        BlocProvider(
+          create: (context) => HadithCubit(),
+        ),
+        BlocProvider(
+          create: (context) => AzkarCubit(),
+        ),
+        BlocProvider(
+          create: (context) => CategoryCubit(),
+        ),
+        BlocProvider(
+          create: (context) => TasbihCubit(),
+        ),
       ],
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
